@@ -61,8 +61,6 @@ Generate SQL-based reports to surface insights in the following areas:
 
 These reports provide business users with actionable KPIs for strategy and operations.
 
-Refer to full analytics brief in [docs/requirements.md](docs/requirements.md).
-
 ---
 
 ## 📁 Repository Structure
